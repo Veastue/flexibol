@@ -1,0 +1,4 @@
+npm i @headlessui/react cloudinary jsonwebtoken @types/jsonwebtoken graphql-request next-auth
+
+
+npm i @grafbase/sdk
